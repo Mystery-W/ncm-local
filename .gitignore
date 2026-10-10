@@ -1,0 +1,35 @@
+# Python 和构建环境
+__pycache__/
+*.py[cod]
+.venv/
+.build-env/
+build/
+dist/
+*.spec
+*.exe
+*.dll
+*.zip
+*.tar.gz
+
+# 音乐、音视频与临时输出（包含大小写后缀）
+*.[nN][cC][mM]
+*.[mM][pP]3
+*.[fF][lL][aA][cC]
+*.[wW][aA][vV]
+*.[oO][gG][gG]
+*.[mM]4[aA]
+*.[aA][aA][cC]
+*.[wW][mM][aA]
+*.[aA][pP][eE]
+*.[oO][pP][uU][sS]
+*.[mM][pP]4
+*.part
+
+# 本地状态、日志、报告和凭据
+*.log
+*.csv
+.env
+.env.*
+work/
+outputs/
+转换结果/

@@ -1,0 +1,2 @@
+cryptography>=41,<47
+mutagen==1.47.0
